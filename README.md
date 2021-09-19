@@ -1,1 +1,1 @@
-# Discord-Stat-Botu
+# dc-hyper-stat
